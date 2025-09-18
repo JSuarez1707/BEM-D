@@ -1,34 +1,35 @@
+/* aplica color y tamaño al primer bloque */
 .kitchen {
     background-color: lightyellow;
     padding: 18px;
 }
 
-
+/* cambia el color del modificador y el tamaño */
 .Hause__kitchen-item--new {
     color: red;
     font-size: xx-large;
 }
-
+/* cmabia el color  y el tamaño del segundo bloque */
 .bedroom {
     background-color: lavender;
     padding: 10px;
 }
-
+/* cmabia el tamaño y el color del modificador */
 .Hause__bedroom-item__Armario--big {
     color: green;
     font-size: xx-small;
 }
-
+/* cambia el color y el tamaño del tercer bloque */
 .livingroom {
     background-color: lightblue;
     padding: 10px;
 }
-
+/* cmabia el tamaño y el color del modificador */
 .Hause__livingroom-item__Televisor--big {
     color: blueviolet;
     font-size: xx-large;
 }
-
+/* cmabia el tipo de letra del modificador */
 .Hause__livingroom-item__Televisor--new {
     font-style: oblique;
 }
