@@ -1,0 +1,34 @@
+.kitchen {
+    background-color: lightyellow;
+    padding: 18px;
+}
+
+
+.Hause__kitchen-item--new {
+    color: red;
+    font-size: xx-large;
+}
+
+.bedroom {
+    background-color: lavender;
+    padding: 10px;
+}
+
+.Hause__bedroom-item__Armario--big {
+    color: green;
+    font-size: xx-small;
+}
+
+.livingroom {
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.Hause__livingroom-item__Televisor--big {
+    color: blueviolet;
+    font-size: xx-large;
+}
+
+.Hause__livingroom-item__Televisor--new {
+    font-style: oblique;
+}
